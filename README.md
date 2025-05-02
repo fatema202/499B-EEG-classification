@@ -14,7 +14,8 @@ This project aims to develop an EEG (Electroencephalogram) classification system
 
 The system is built with **PyTorch**, a popular deep learning framework, and is designed to handle EEG data with a channel size of 14 and signal length of 224.
 
-Dataset collected from: https://www.mindbigdata.com/
+Dataset collected from:  BCI Competition IV, Dataset 2a
+ https://www.bbci.de/competition/iv/
 
 ## Methodology
 
